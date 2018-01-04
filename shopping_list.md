@@ -1,3 +1,4 @@
 - Macbook Pro 2017
 - Magic Mouse 2
 - HHKB Type-S
+- iPhone X
