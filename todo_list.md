@@ -1,0 +1,3 @@
+- coding
+- listing music
+- playing guitar
