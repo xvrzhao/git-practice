@@ -1,2 +1,1 @@
-# git-practice
-a practice repo to for learning
+A repo for practice.
