@@ -3,3 +3,4 @@
 - playing guitar
 - watching movie
 - learning English
+- sleeping
